@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono:wght@700&family=Ubuntu:wght@300&display=swap');
+
+*{
+  font-family: 'Ubuntu Mono', monospace;
+  font-size: 40px;
+  color: white;
+}
+
+.home{
+  background-color: purple;
+}
+
+body {
+  background-color: black;
+  align-content: first baseline;
+  display: flex;
+  flex-direction: column;
+}
+
+.projects {
+  background-color: red;
+  margin-top: 200cm;
+}
+
+.hidden {
+  opacity: 1;
+  transition: all 1s;
+}
+
+.show {
+  opacity: 0;
+  transition: all 1s;
+}
+
+
+
