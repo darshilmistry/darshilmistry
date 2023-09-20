@@ -1,4 +1,4 @@
-import "./home.css";
+import "../css/home.css";
 import profile from "../../public/profile.png";
 import { useEffect, useState, useRef } from "react";
 

@@ -1,8 +1,5 @@
 import { useEffect, useRef, useState } from "react";
-import reactLogo from "./assets/react.svg";
-import viteLogo from "/vite.svg";
-import "./App.css";
-import styles from "./index.module.scss";
+import styles from "./css/universal.css";
 import Home from "./components/Home";
 import Projects from "./components/Projects";
 import AboutMe from "./components/AboutMe";
@@ -25,9 +22,7 @@ function App() {
       <AboutMe />
       <div
         ref={project}
-        className={`${styles.projects} ${styles.hidden} ${
-          visibility ? styles.show : ``
-        }`}
+        className={`projects hidden ${visibility ? styles.show : ``}`}
       >
         <Projects />
       </div>

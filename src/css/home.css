@@ -1,0 +1,306 @@
+/* ! Max width ! */
+
+.innerhome {
+  margin-top: 10vh;
+  padding: 100px;
+  height: 50vh;
+  width: 100vw;
+}
+
+.helloWorld {
+  position: relative;
+  font-size: 6em;
+  font-family: "Roboto Slab", serif;
+  color: skyblue;
+}
+
+.intro {
+  position: absolute;
+  display: flex;
+  top: 200px;
+  font-family: "Comfortaa", cursive;
+  align-items: first baseline;
+}
+
+.name {
+  color: skyblue;
+  font-size: 80px;
+  margin-left: 20px;
+}
+
+.occupation {
+  position: absolute;
+  top: 335px;
+  width: 850px;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 30px;
+}
+
+.profile {
+  position: absolute;
+  top: 100px;
+  right: 150px;
+  width: 1000px;
+}
+
+.animateLeft {
+  animation: slideLeft 1s both;
+}
+
+.undoAnimateLeft {
+  animation: undoSlideLeft 1s both;
+}
+
+.animateRight {
+  animation: slideRight 1s both;
+}
+
+.undoAnimateRight {
+  animation: undoSlideRight 1s both;
+}
+
+@keyframes slideLeft {
+  from {
+    transform: translateX(-1550px);
+  }
+
+  to {
+    transform: translateX(0px);
+  }
+}
+
+@keyframes undoSlideLeft {
+  from {
+    transform: translateX(0px);
+  }
+
+  to {
+    transform: translateX(-1550px);
+  }
+}
+
+@keyframes undoSlideRight {
+  from {
+    transform: translateX(0px);
+  }
+
+  to {
+    transform: translateX(1550px);
+  }
+}
+
+@keyframes slideRight {
+  from {
+    transform: translateX(1550px);
+  }
+
+  to {
+    transform: translateX(0px);
+  }
+}
+
+/* ! 1440p ! */
+@media screen and (max-width: 1440px) {
+  .helloWorld {
+    position: relative;
+    font-size: 3.5em;
+    font-family: "Roboto Slab", serif;
+    color: skyblue;
+  }
+
+  .intro {
+    position: absolute;
+    display: flex;
+    top: 70px;
+    font-family: "Comfortaa", cursive;
+    align-items: first baseline;
+  }
+
+  .occupation {
+    position: absolute;
+    top: 205px;
+    width: 850px;
+    font-family: "Ubuntu", sans-serif;
+    font-size: 30px;
+  }
+
+  .profile {
+    position: absolute;
+    top: 100px;
+    right: -150px;
+    width: 750px;
+  }
+}
+
+/* ! 1024p ! */
+@media screen and (max-width: 1024px) {
+  .helloWorld {
+    position: relative;
+    font-size: 3.2em;
+    font-family: "Roboto Slab", serif;
+    color: skyblue;
+  }
+
+  .intro {
+    position: absolute;
+    display: flex;
+    top: 70px;
+    font-family: "Comfortaa", cursive;
+    align-items: first baseline;
+  }
+
+  .occupation {
+    position: absolute;
+    top: 205px;
+    width: 850px;
+    font-family: "Ubuntu", sans-serif;
+    font-size: 30px;
+  }
+
+  .profile {
+    position: absolute;
+    top: 100px;
+    right: -450px;
+    width: 750px;
+  }
+}
+
+/* ! 786p ! */
+@media screen and (max-width: 786px) {
+  .helloWorld {
+    position: relative;
+    font-size: 3em;
+    font-family: "Roboto Slab", serif;
+    color: skyblue;
+  }
+
+  .intro {
+    position: absolute;
+    display: flex;
+    top: 70px;
+    font-family: "Comfortaa", cursive;
+    align-items: first baseline;
+  }
+
+  .name {
+    color: skyblue;
+    font-size: 80px;
+    margin-left: 20px;
+    font-size: 1.5em;
+  }
+
+  .occupation {
+    position: absolute;
+    top: 165px;
+    width: 850px;
+    font-family: "Ubuntu", sans-serif;
+    font-size: 28px;
+  }
+
+  .profile {
+    position: absolute;
+    top: 100px;
+    right: -675px;
+    width: 750px;
+  }
+}
+
+/* ! 425p ! */
+@media screen and (max-width: 425px) {
+  .innerhome {
+    margin-top: 10vh;
+    padding: 100px;
+    height: 50vh;
+    width: 250vw;
+  }
+  .helloWorld {
+    position: relative;
+    font-size: 3.5em;
+    font-family: "Roboto Slab", serif;
+    color: skyblue;
+  }
+
+  .intro {
+    position: absolute;
+    display: flex;
+    top: 90px;
+    font-family: "Comfortaa", cursive;
+    align-items: first baseline;
+  }
+
+  .name {
+    color: skyblue;
+    margin-left: 20px;
+    font-size: 1.75em;
+  }
+
+  .occupation {
+    position: absolute;
+    top: 180px;
+    width: 850px;
+    font-family: "Ubuntu", sans-serif;
+    font-size: 50px;
+  }
+
+  .profile {
+    position: absolute;
+    top: 100px;
+    right: -1020px;
+    width: 750px;
+  }
+}
+
+/* ! 375p ! */
+@media screen and (max-width: 425px) {
+  .profile {
+    position: absolute;
+    top: 100px;
+    right: -1100px;
+    width: 750px;
+  }
+}
+
+/* ! 320p ! */
+@media screen and (max-width: 425px) {
+  .innerhome {
+    margin-top: 10vh;
+    padding: 100px;
+    height: 50vh;
+    width: 250vw;
+  }
+  .helloWorld {
+    position: relative;
+    font-size: 3em;
+    font-family: "Roboto Slab", serif;
+    color: skyblue;
+  }
+
+  .intro {
+    position: absolute;
+    display: flex;
+    top: 90px;
+    font-family: "Comfortaa", cursive;
+    align-items: first baseline;
+  }
+
+  .name {
+    color: skyblue;
+    margin-left: 20px;
+    font-size: 1.75em;
+  }
+
+  .occupation {
+    position: absolute;
+    top: 180px;
+    width: 800px;
+    font-family: "Ubuntu", sans-serif;
+    font-size: 50px;
+  }
+
+  .profile {
+    position: absolute;
+    top: 100px;
+    right: -1020px;
+    width: 750px;
+  }
+}

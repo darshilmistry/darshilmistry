@@ -1,0 +1,72 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@900&family=Ubuntu:wght@300&display=swap");
+
+/* ! Root ! */
+
+* {
+  font-family: "Ubuntu Mono", monospace;
+  font-size: 40px;
+  color: white;
+}
+
+body {
+  background-color: black;
+  align-content: first baseline;
+  display: flex;
+  flex-direction: column;
+  overflow-x: hidden;
+}
+
+/* ! About me ! */
+
+.AboutMeParent {
+  position: relative;
+  top: 250px;
+  left: -350px;
+  align-content: center;
+  width: 1000px;
+  height: 800px;
+  margin: auto;
+  flex-flow: column;
+}
+
+.abtMe {
+  position: sticky;
+  top: 0px;
+  align-self: flex-start;
+  font-size: 150px;
+  color: skyblue;
+  z-index: 1;
+}
+
+.mcp1 {
+  position: sticky;
+  top: 170px;
+  align-self: flex-start;
+}
+
+.mcp2 {
+  position: sticky;
+  top: 375px;
+  align-self: flex-start;
+}
+
+.mcp3 {
+  position: sticky;
+  top: 580px;
+  align-self: flex-start;
+}
+
+.skills {
+  position: relative;
+  top: 100px;
+  text-align: end;
+  font-size: 45px;
+}
+
+.blocks {
+  position: absolute;
+  top: 100px;
+  right: -800px;
+  opacity: 0.6;
+  width: 600px;
+}

@@ -1,4 +1,4 @@
-import "./AboutMe.css";
+import "../css/universal.css";
 import blocks from "../../public/blocks.png";
 
 function AboutMe() {
@@ -18,9 +18,9 @@ function AboutMe() {
       </p>
 
       <p className="mcp3">
-        Beyomd my work life, I love riding bikes. I own a Royal Enfield
-        Interceptor 650 that I ocationally ride. I also hava a strong liking \
-        towards science fiction and real world documentaries.
+        Beyomd my work life, I am a huge fan of science fiction as well as real
+        world documentaries. Additionally I like playing minecraft and many
+        other open-world game.
       </p>
       <img className="blocks" src={blocks} />
     </div>
