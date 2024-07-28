@@ -1,25 +1,32 @@
 <h1>Hey👋, I'm Darshil Mistry</h1>
 I am a dedicated Computer Science graduate, my commitment to excellence being evident through my projects and work experience. They also highlight my relentless pursuit of innovation in smart contract development and cutting edge technology. With a drive to leave a lasting mark on the tech landscape, I am committed to pushing boundaries and contributing to the advancement of this transformative field.
 <h1> Connect with me </h1>
-<h2><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn__initials.png/600px-LinkedIn__initials.png" height="20" alt="linkedin "/> <a href = "https://www.linkedin.com/in/idarshilmistry/"> idarshilmistry </a> </h2>
+<h2><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" height="20" alt="linkedin "/> <a href = "https://www.linkedin.com/in/idarshilmistry/"> idarshilmistry </a> </h2>
 
 <h2><img src="https://imaginethatcreative.net/blog/wp-content/uploads/2023/06/2250206.png" height="20" alt="email "/> <a href = "mailto:idarshilmistry@gmail.com"> idarshilmistry@gmail.com </a> </h2>
 
-<h2><img src="https://cdn4.iconfinder.com/data/icons/s-and-brands/512/189_Kaggle__s-512.png" height="20" alt="kaggle "/><a href = "https://www.kaggle.com/darshil2307"> darshil2307 </a> </h2>
+<h2><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" height="20" alt="kaggle "/><a href = "https://www.kaggle.com/darshil2307"> darshil2307 </a> </h2>
 
 <h2><img src="https://static-00.iconduck.com/assets.00/cv-icon-1725x2048-mk536z84.png" height="20" alt="cv "/> <a href = "https://drive.google.com/uc?export=download&id=15LmYE5vI1504Zy1TbeMKd-dxmfpATdn8"> download my resume </a> </h2>
 
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darshilmistry&show_icons=true&locale=en&layout=compact" alt="darshilmistry" />
 
-<div> 
-<h2>&nbsp; Starship Titanic &nbsp; <a href="https://www.kaggle.com/competitions/spaceship-titanic/overview"> Kaggle Page</a> &nbsp; <a href="https://github.com/darshilmistry/StarshipTitanic"> Code Repository </a>  </h2>
-&nbsp;&nbsp;&nbsp;&nbsp;A Kaggle challenge to build a ML model to predict if a passenger in interplanetary <br/> 
-&nbsp;&nbsp;&nbsp;&nbsp;travel would be at a risk of being teleported to another dimension.
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Accuracy: 79.705% <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Leaderboard position: 748
+## Starship Titanic &nbsp; <a href="https://www.kaggle.com/competitions/spaceship-titanic/overview"> Kaggle Page</a> &nbsp; <a href="https://github.com/darshilmistry/StarshipTitanic"> Code Repository </a>
 
-</div>
+A Kaggle challenge to build a ML model to predict if a passenger in interplanetary travel would be at a risk of being teleported to another dimension.
+
+Accuracy: 79.705% <br>
+Leaderboard position: 748
+
 
 <h1> Tech Stack </h1>
 <h3>Programming Languages</h3>
