@@ -1,65 +1,49 @@
-<h1>Hey👋, I'm Darshil Mistry</h1>
-I am a dedicated Computer Science graduate, my commitment to excellence being evident through my projects and work experience. They also highlight my relentless pursuit of innovation in smart contract development and cutting edge technology. With a drive to leave a lasting mark on the tech landscape, I am committed to pushing boundaries and contributing to the advancement of this transformative field.
-<h1> Connect with me </h1>
-<h2><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" height="20" alt="linkedin "/> <a href = "https://www.linkedin.com/in/idarshilmistry/"> idarshilmistry </a> </h2>
+# Darshil Mistry
+Data / Analytics Engineering | MPS Analytics, Northeastern '26 | Vancouver, BC
 
-<h2><img src="https://imaginethatcreative.net/blog/wp-content/uploads/2023/06/2250206.png" height="20" alt="email "/> <a href = "mailto:idarshilmistry@gmail.com"> idarshilmistry@gmail.com </a> </h2>
+#### Contact Me
+Linkedin | idarshilmistry@gmail.com | WhatsApp
 
-<h2><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" height="20" alt="kaggle "/><a href = "https://www.kaggle.com/darshil2307"> darshil2307 </a> </h2>
+<table>
+<tr>
+<td width="70%" align="justify" >
 
-<h2><img src="https://static-00.iconduck.com/assets.00/cv-icon-1725x2048-mk536z84.png" height="20" alt="cv "/> <a href = "https://drive.google.com/uc?export=download&id=15LmYE5vI1504Zy1TbeMKd-dxmfpATdn8"> download my resume </a> </h2>
+Recently graduated with a Master of Professional Studies in Analytics, I have built multiple projects across different areas of data storage and analysis, two of which I've taken to near-production quality. I work most often in SQL and Python, while my recent projects demonstrate working ability in T-SQL, dbt, and Azure as well. Looking forward to launch my career as a Data Engineer with a Canadian organization.
 
+</td>
+<td height="150"><img src="profileph.png"/></td>
+</tr>
+</table>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darshilmistry&show_icons=true&locale=en&layout=compact" alt="darshilmistry" />
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-## Starship Titanic &nbsp; <a href="https://www.kaggle.com/competitions/spaceship-titanic/overview"> Kaggle Page</a> &nbsp; <a href="https://github.com/darshilmistry/StarshipTitanic"> Code Repository </a>
-
-A Kaggle challenge to build a ML model to predict if a passenger in interplanetary travel would be at a risk of being teleported to another dimension.
-
-Accuracy: 79.705% <br>
-Leaderboard position: 748
+## Featured Projects
 
 
-<h1> Tech Stack </h1>
-<h3>Programming Languages</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python "  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus "  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c "  />
-  <img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.png" height="40" alt="javascript "  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript "  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 "  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 "  />
-</div>
+### BTS Flight Delay
+Star-schema warehouse on Azure SQL for 20+ years of US flight performance
+data, built to study how delays originate and spread through the system.
+Blob storage as the raw landing zone, T-SQL staging and quarantine layers,
+Power BI semantic model.
 
-<h3>Frameworks</h3>
-<div align="left">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKJ731l1uafX-VIHrjEBIGRtQlZ12SgsFYMQ&s" height="40" alt="hardhat"/>
-  <img src="https://miro.medium.com/v2/resize:fit:600/1*SHg7SgjVtPJ-Fma-liXz_Q.png" height="40" alt="hardhat"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react "  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs "  />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGx_cXS9Z-WaZKNAEpr-eTnWJb57Rk00U8Ww&s" height="40" alt="tailwindcss "  />
-</div>
+### Capital Bike Share 
+Containerized medallion-architecture ELT pipeline on PostgreSQL for
+Capital Bikeshare trip data (200k+ rows per monthly run), built to keep
+malformed records recoverable instead of dropping them. Immutable CSV
+raw layer, quarantine and repair in bronze, dbt dimensional models
+in silver and gold, Airflow orchestration, FastAPI read endpoints.
 
-<h3>Cloud and Database</h3>
-<div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" height="40" alt="mysql "  />
-  <img src="https://miro.medium.com/v2/resize:fit:300/1*R4c8lHBHuH5qyqOtZb3h-w.png" height="40" alt="mysql "  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql"  />
-</div>
-
-<h3>Others</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim"  />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/LaTeX_project_logo_bird.svg/1200px-LaTeX_project_logo_bird.svg.png" height="40" alt="Latex"/>
-</div>
+## Things I work with
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="25" alt="Python">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" width="25" alt="PostgreSQL">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="25" alt="SQL Server">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" width="25" alt="MySQL">
+<img src="images/DuckDB.svg" width="25" alt="DuckDB">
+<img src="images/dbt.png" width="25" alt="dbt">
+<img src="images/apache-airflow.svg" width="25" alt="Apache Airflow">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" width="25" alt="Docker">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png" width="25" alt="Microsoft Azure">
+<img src="images/powerbi.svg" width="25" alt="Power BI">
+<img src="images/fastapi.svg" width="25" alt="FastAPI">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="25" alt="Git">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" width="25" alt="GitHub">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" width="25" alt="VS Code">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" width="25" alt="Jupyter">
