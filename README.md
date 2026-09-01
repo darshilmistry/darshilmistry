@@ -2,18 +2,11 @@
 Data / Analytics Engineering | MPS Analytics, Northeastern '26 | Vancouver, BC
 
 #### Contact Me
-Linkedin | idarshilmistry@gmail.com | WhatsApp
+<a href="https://www.linkedin.com/in/idarshilmistry/">Linkedin</a> | idarshilmistry@gmail.com 
 
-<table>
-<tr>
-<td width="70%" align="justify" >
 
-Recently graduated with a Master of Professional Studies in Analytics, I have built multiple projects across different areas of data storage and analysis, two of which I've taken to near-production quality. I work most often in SQL and Python, while my recent projects demonstrate working ability in T-SQL, dbt, and Azure as well. Looking forward to launch my career as a Data Engineer with a Canadian organization.
-
-</td>
-<td height="150"><img src="profileph.png"/></td>
-</tr>
-</table>
+<img src="images/profile.png" height="150" align="right"/>
+<br/>Recently graduated with a Master of Professional Studies in Analytics, I have built multiple projects across different areas of data storage and analysis, two of which I've taken to near-production quality. I work most often in SQL and Python, while my recent projects demonstrate working ability in T-SQL, dbt, and Azure as well. Looking forward to launch my career as a Data Engineer with a Canadian organization.<br/>
 
 ## Featured Projects
 
@@ -32,6 +25,8 @@ raw layer, quarantine and repair in bronze, dbt dimensional models
 in silver and gold, Airflow orchestration, FastAPI read endpoints.
 
 ## Things I work with
+<p>
+  
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="25" alt="Python">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" width="25" alt="PostgreSQL">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="25" alt="SQL Server">
@@ -47,3 +42,5 @@ in silver and gold, Airflow orchestration, FastAPI read endpoints.
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" width="25" alt="GitHub">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" width="25" alt="VS Code">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" width="25" alt="Jupyter">
+
+</p>
