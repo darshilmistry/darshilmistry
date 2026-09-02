@@ -11,18 +11,24 @@ Data / Analytics Engineering | MPS Analytics, Northeastern '26 | Vancouver, BC
 ## Featured Projects
 
 
-### BTS Flight Delay
+### <a href="https://github.com/darshilmistry/BTS_Flight_Delay">BTS Flight Delay</a>
 Star-schema warehouse on Azure SQL for 20+ years of US flight performance
 data, built to study how delays originate and spread through the system.
 Blob storage as the raw landing zone, T-SQL staging and quarantine layers,
 Power BI semantic model.
 
-### Capital Bike Share 
+### <a href="https://github.com/darshilmistry/CapBikeEndToEnd">Capital Bike Share</a> 
 Containerized medallion-architecture ELT pipeline on PostgreSQL for
 Capital Bikeshare trip data (200k+ rows per monthly run), built to keep
 malformed records recoverable instead of dropping them. Immutable CSV
 raw layer, quarantine and repair in bronze, dbt dimensional models
 in silver and gold, Airflow orchestration, FastAPI read endpoints.
+
+#### Other Data Projects
+- *<a href="https://github.com/darshilmistry/VehicleSalesDashboard">Vehicle Sales Dashboard</a>*: A dynamic data dashboard for vehicle sales through different dealers. 
+- *<a href="https://github.com/darshilmistry/SuperStoreDashboard">Super-store Dashboard</a>*: A single page dashboard summarizing different products sold in a superstore.
+- *<a href="https://github.com/darshilmistry/WineQuality">Wine Quality prediction</a>*: Predict wine quality based on characteristics such as acidity and residual sugars.
+- *<a href="https://github.com/darshilmistry/StarshipTitanic">Starship Titanic</a>*: Attempting a Kaggle competition.
 
 ## Things I work with
 <p>
